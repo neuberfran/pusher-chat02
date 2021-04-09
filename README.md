@@ -43,3 +43,4 @@ Built With
 ------
 - [Pusher](https://pusher.com) - A Ruby gem to interact with the Pusher REST API
 # pusher-chat
+# pusher-chat02
